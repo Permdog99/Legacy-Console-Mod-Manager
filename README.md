@@ -1,1 +1,1 @@
-# Legacy-Console-MM
+# Legacy-Console-Mod-Manager
